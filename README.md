@@ -41,8 +41,26 @@ The message displayed below the loader.
 boxColor (string, default: 'White')
 The color of the loader box.
 
+Available : {
+  Accent: '#e07a5f',
+  Primary: '#0081a7',
+  Warm: '#e76f51',
+  Danger: '#d62828',
+  Light: '#e09f3e',
+  Delight: '#9b5de5',
+  White: '#FFFFFF',
+}
+
 overlayColor (string, default: 'Level1')
 The color of the overlay behind the loader.
+
+Available : {
+  Level1: 0.1,
+  Level2: 0.2,
+  Level3: 0.3,
+  Level4: 0.4,
+  Level5: 0.5,
+}
 
 size (string, default: 'large')
 
