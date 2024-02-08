@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+*.tscode
+
+# Build output
+/dist
+
+# IDE files
+.vscode/
+
+# npm
+npm-debug.log
+*.log
+*.lock
+.pnp
+node_modules/
